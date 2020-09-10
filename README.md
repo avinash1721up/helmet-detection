@@ -87,7 +87,14 @@ These operations are the basic building blocks of every Convolutional Neural Net
 OpenCV (Open Source Computer Vision Library) is a library of programming functions mainly aimed at real-time computer vision.The library is cross-platform and free for use under the open-source BSD license.
 
 
-The saved  keras model is used here in opencv and by using  upper body classifier , we are able to get the expected results from the model.
+The saved keras model is used here in opencv and by using  upper body classifier , the model is giving the predicted results as
+
+
+
+
+
+
+                   ![images3](https://user-images.githubusercontent.com/68318221/92759051-f3e4bd00-f3ac-11ea-95cd-4bf889f20862.png)
 
 
 
