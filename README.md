@@ -5,7 +5,7 @@ This model detects the helmet of workers whether they are wearing helmets or not
 
 1.Importing all the required libraries.
 
-2.Uploading the dataset extracted from Kaggle. Click here to 
+2.Uploading the dataset extracted from Kaggle. Click [here](https://www.kaggle.com/andrewmvd/hard-hat-detection "HD")
 
      
 
