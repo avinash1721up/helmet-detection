@@ -87,6 +87,9 @@ These operations are the basic building blocks of every Convolutional Neural Net
 OpenCV (Open Source Computer Vision Library) is a library of programming functions mainly aimed at real-time computer vision.The library is cross-platform and free for use under the open-source BSD license.
 
 
+The saved  keras model is used here in opencv and by using  upper body classifier , we are able to get the expected results from the model.
+
+
 
 This library helps us to work and mainly detect some real time images so that we can assure that our model is working fine or not.
 
@@ -97,7 +100,7 @@ This library helps us to work and mainly detect some real time images so that we
 
 - YOLO is definitely a better option for the working of these type of object detection models. I tried to implement this model by YOLO as well but laptop features didnt allowed it.
 
-- I searched and gained some extra and beneficial skills in this project. Hopefully , this model worked.
+- I searched and gained some extra and beneficial skills in this project. Hopefully , this model worked according to my expectations.
 
 
 
