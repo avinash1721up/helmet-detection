@@ -90,11 +90,7 @@ OpenCV (Open Source Computer Vision Library) is a library of programming functio
 The saved keras model is used here in opencv and by using  upper body classifier , the model is giving the predicted results as
 
 
-
-
-
-
-                   ![images3](https://user-images.githubusercontent.com/68318221/92759051-f3e4bd00-f3ac-11ea-95cd-4bf889f20862.png)
+![images3](https://user-images.githubusercontent.com/68318221/92759051-f3e4bd00-f3ac-11ea-95cd-4bf889f20862.png)
 
 
 
