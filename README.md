@@ -1,1 +1,1 @@
-# helmet-detection
+# HELMET DETECTION
